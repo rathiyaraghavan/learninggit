@@ -1,1 +1,3 @@
-# learninggit
+# Learning Git
+Learning basics of git 
+
